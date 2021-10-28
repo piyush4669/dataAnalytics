@@ -1,0 +1,13 @@
+month,casual_num_rides,casual_avg_time,member_num_rides,member_avg_time
+January,14690,26,68819,12
+February,8613,47,34383,14
+March,75642,38,130049,13
+April,120420,38,177787,14
+May,303592,43,347355,16
+June,154509,51,188028,18
+July,268733,59,281692,17
+August,283006,44,325504,16
+September,215300,38,285090,15
+October,122810,31,216493,14
+November,73033,33,149756,13
+December,24552,92,89359,95

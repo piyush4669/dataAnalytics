@@ -1,0 +1,701 @@
+start_station_name,ridecount
+Streeter Dr & Grand Ave,36482
+Lake Shore Dr & Monroe St,28034
+Millennium Park,25185
+Theater on the Lake,18454
+Michigan Ave & Oak St,18346
+Lake Shore Dr & North Blvd,17193
+Indiana Ave & Roosevelt Rd,16389
+Michigan Ave & Lake St,14309
+Clark St & Elm St,13977
+Shedd Aquarium,13719
+Michigan Ave & Washington St,13331
+Buckingham Fountain,12910
+Wells St & Concord Ln,12536
+Clark St & Lincoln Ave,12481
+Wabash Ave & Grand Ave,12277
+Clark St & Armitage Ave,12106
+Michigan Ave & 8th St,12061
+Columbus Dr & Randolph St,11591
+Fairbanks Ct & Grand Ave,11192
+Wells St & Elm St,11159
+Dusable Harbor,10866
+Wells St & Evergreen Ave,10568
+Lake Shore Dr & Belmont Ave,10409
+Lake Shore Dr & Wellington Ave,10372
+Dearborn St & Erie St,10348
+Lakeview Ave & Fullerton Pkwy,10211
+Wabash Ave & Roosevelt Rd,10189
+Lake Shore Dr & Diversey Pkwy,10096
+Wells St & Huron St,9992
+Larrabee St & Webster Ave,9912
+Broadway & Barry Ave,9861
+Wabash Ave & Wacker Pl,9860
+Lake Shore Dr & Ohio St,9011
+Wilton Ave & Belmont Ave,8843
+State St & Randolph St,8606
+Dearborn Pkwy & Delaware Pl,8579
+LaSalle St & Illinois St,8537
+Wabash Ave & 9th St,8493
+Adler Planetarium,8479
+Stockton Dr & Wrightwood Ave,8347
+Montrose Harbor,8185
+State St & Kinzie St,8127
+Rush St & Cedar St,8093
+Lakefront Trail & Bryn Mawr Ave,8027
+Desplaines St & Kinzie St,7984
+Lincoln Park Conservatory,7924
+Clark St & Drummond Pl,7888
+Pine Grove Ave & Waveland Ave,7853
+Sheffield Ave & Waveland Ave,7807
+Lincoln Ave & Fullerton Ave,7762
+Clark St & Wrightwood Ave,7737
+Halsted St & Roscoe St,7710
+Broadway & Cornelia Ave,7696
+Michigan Ave & Pearson St,7628
+Wells St & Hubbard St,7600
+Shore Dr & 55th St,7532
+Damen Ave & Pierce Ave,7389
+Kingsbury St & Kinzie St,7326
+St. Clair St & Erie St,7298
+Clark St & Newport St,7225
+Ashland Ave & Division St,7222
+Fort Dearborn Dr & 31st St,7209
+Clark St & Schiller St,7207
+Rush St & Superior St,7192
+Mies van der Rohe Way & Chestnut St,7136
+Bissell St & Armitage Ave,7118
+McClurg Ct & Illinois St,6931
+Clark St & North Ave,6601
+Clark St & Wellington Ave,6590
+Southport Ave & Roscoe St,6576
+Green St & Madison St,6470
+Michigan Ave & Jackson Blvd,6350
+Federal St & Polk St,6266
+Broadway & Waveland Ave,6228
+Sheffield Ave & Wrightwood Ave,6216
+Clark St & Lake St,6187
+Cityfront Plaza Dr & Pioneer Ct,6186
+Clark St & Grace St,6118
+Sheffield Ave & Webster Ave,6048
+Southport Ave & Waveland Ave,6024
+Broadway & Belmont Ave,6021
+McClurg Ct & Erie St,6013
+Pine Grove Ave & Irving Park Rd,5973
+Sheffield Ave & Wellington Ave,5948
+Green St & Randolph St,5874
+Wilton Ave & Diversey Pkwy,5804
+Halsted St & Wrightwood Ave,5781
+Cannon Dr & Fullerton Ave,5781
+Morgan St & Lake St,5580
+Sedgwick St & North Ave,5511
+Daley Center Plaza,5471
+Milwaukee Ave & Grand Ave,5465
+Sheridan Rd & Montrose Ave,5372
+Franklin St & Jackson Blvd,5299
+Dearborn St & Monroe St,5292
+Wabash Ave & Adams St,5286
+Halsted St & Dickens Ave,5283
+Ritchie Ct & Banks St,5261
+Clark St & Chicago Ave,5229
+LaSalle Dr & Huron St,5225
+Field Blvd & South Water St,5175
+Wood St & Milwaukee Ave,5170
+Michigan Ave & 14th St,5089
+Clinton St & Madison St,5086
+Kingsbury St & Erie St,5082
+Mies van der Rohe Way & Chicago Ave,5050
+Michigan Ave & Madison St,5025
+Racine Ave & Belmont Ave,4847
+Halsted St & Clybourn Ave,4838
+Marine Dr & Ainslie St,4776
+Kedzie Ave & Milwaukee Ave,4755
+Franklin St & Illinois St,4720
+Franklin St & Lake St,4707
+Clark St & Randolph St,4624
+Sedgwick St & Webster Ave,4575
+Clarendon Ave & Junior Ter,4543
+State St & Pearson St,4539
+Honore St & Division St,4537
+Sheridan Rd & Irving Park Rd,4458
+Broadway & Sheridan Rd,4413
+Wells St & Polk St,4411
+State St & Harrison St,4400
+Stetson Ave & South Water St,4392
+Lincoln Ave & Diversey Pkwy,4328
+Milwaukee Ave & Wabansia Ave,4312
+Sheffield Ave & Fullerton Ave,4213
+Burnham Harbor,4176
+Damen Ave & Cortland St,4170
+Michigan Ave & 18th St,4167
+Lakefront Trail & Wilson Ave,4155
+Clarendon Ave & Gordon Ter,4078
+Michigan Ave & Ida B Wells Dr,4017
+Desplaines St & Randolph St,4011
+Franklin St & Monroe St,3984
+Kimbark Ave & 53rd St,3981
+Cornell Ave & Hyde Park Blvd,3877
+Orleans St & Merchandise Mart Plaza,3868
+Peoria St & Jackson Blvd,3836
+Clinton St & Lake St,3834
+Franklin St & Chicago Ave,3820
+Southport Ave & Wellington Ave,3819
+Broadway & Granville Ave,3807
+California Ave & Milwaukee Ave,3775
+Clark St & Berwyn Ave,3772
+Larrabee St & Division St,3756
+Southport Ave & Wrightwood Ave,3723
+New St & Illinois St,3708
+Greenview Ave & Fullerton Ave,3669
+Larrabee St & Armitage Ave,3624
+Rush St & Hubbard St,3604
+Southport Ave & Belmont Ave,3576
+Dayton St & North Ave,3573
+Field Museum,3559
+Ashland Ave & Blackhawk St,3539
+Sheffield Ave & Kingsbury St,3526
+Halsted St & Willow St,3522
+Wells St & Walton St,3413
+Calumet Ave & 18th St,3410
+Sheffield Ave & Willow St,3384
+Racine Ave & Fullerton Ave,3374
+Lincoln Ave & Belmont Ave,3369
+Orleans St & Chestnut St (NEXT Apts),3360
+Damen Ave & Chicago Ave,3338
+Clifton Ave & Armitage Ave,3333
+Paulina Ave & North Ave,3325
+Lake Park Ave & 53rd St,3307
+State St & Van Buren St,3244
+Lake Park Ave & 35th St,3184
+Ellis Ave & 60th St,3167
+Eckhart Park,3139
+Lincoln Ave & Roscoe St,3139
+Canal St & Adams St,3109
+Wabash Ave & 16th St,3101
+Desplaines St & Jackson Blvd,3099
+Sedgwick St & Huron St,3089
+Damen Ave & Division St,3085
+Sheridan Rd & Buena Ave,3064
+Wentworth Ave & Cermak Rd,3018
+Ogden Ave & Chicago Ave,2978
+Noble St & Milwaukee Ave,2971
+Broadway & Argyle St,2963
+Carpenter St & Huron St,2922
+Clark St & Winnemac Ave,2877
+Clarendon Ave & Leland Ave,2866
+Broadway & Thorndale Ave,2855
+WATSON TESTING - DIVVY,2819
+LaSalle St & Washington St,2810
+Sangamon St & Washington Blvd,2799
+Ravenswood Ave & Lawrence Ave,2773
+Broadway & Berwyn Ave,2760
+Sheridan Rd & Loyola Ave,2760
+Clark St & 9th St (AMLI),2753
+Ogden Ave & Race Ave,2737
+Larrabee St & Kingsbury St,2733
+Western Ave & Winnebago Ave,2727
+Franklin St & Adams St (Temp),2727
+Aberdeen St & Jackson Blvd,2701
+Marshfield Ave & Cortland St,2698
+Aberdeen St & Randolph St,2689
+Clark St & Leland Ave,2687
+Museum of Science and Industry,2686
+Canal St & Madison St,2662
+LaSalle St & Jackson Blvd,2651
+Jefferson St & Monroe St,2645
+Dearborn St & Van Buren St,2640
+Broadway & Wilson Ave,2620
+Broadway & Ridge Ave,2600
+Blackstone Ave & Hyde Park Blvd,2576
+Lake Park Ave & 56th St,2564
+Delano Ct & Roosevelt Rd,2562
+Loomis St & Lexington St,2555
+Burling St (Halsted) & Diversey Pkwy (Temp),2528
+Clinton St & Roosevelt Rd,2522
+Ashland Ave & Chicago Ave,2504
+Clinton St & Washington Blvd,2485
+University Ave & 57th St,2472
+Ashland Ave & Wrightwood Ave,2471
+Wacker Dr & Washington St,2459
+Western Ave & Walton St,2427
+Damen Ave & Thomas St (Augusta Blvd),2380
+Humboldt Blvd & Armitage Ave,2357
+Ada St & Washington Blvd,2349
+Fairbanks St & Superior St,2348
+Aberdeen St & Monroe St,2339
+May St & Taylor St,2316
+Sheridan Rd & Lawrence Ave,2303
+Leavitt St & North Ave,2275
+Racine Ave & Wrightwood Ave,2260
+Larrabee St & North Ave,2259
+Orleans St & Hubbard St,2248
+MLK Jr Dr & 29th St,2246
+Damen Ave & Charleston St,2222
+Chicago Ave & Sheridan Rd,2212
+Southport Ave & Irving Park Rd,2197
+Benson Ave & Church St,2179
+Ellis Ave & 55th St,2172
+Campbell Ave & North Ave,2157
+Southport Ave & Clybourn Ave,2153
+Ashland Ave & Grand Ave,2107
+Ashland Ave & Grace St,2087
+Greenview Ave & Diversey Pkwy,2077
+Halsted St & Maxwell St,2061
+Woodlawn Ave & 55th St,2059
+Dearborn St & Adams St,2054
+Winthrop Ave & Lawrence Ave,2007
+Logan Blvd & Elston Ave,1992
+Seeley Ave & Roscoe St,1988
+Rhodes Ave & 32nd St,1936
+Clybourn Ave & Division St,1931
+Canal St & Taylor St,1926
+63rd St Beach,1923
+California Ave & North Ave,1921
+Western Ave & Division St,1908
+Racine Ave & 18th St,1896
+Ashland Ave & Augusta Blvd,1895
+Sedgwick St & Schiller St,1884
+Leavitt St & Armitage Ave,1882
+Ellis Ave & 53rd St,1868
+Glenwood Ave & Morse Ave,1866
+Burling St & Diversey Pkwy,1856
+Clark St & Bryn Mawr Ave,1847
+Financial Pl & Ida B Wells Dr,1841
+Walsh Park,1837
+Blue Island Ave & 18th St,1817
+Kedzie Ave & Palmer Ct,1813
+Paulina St & Flournoy St,1809
+Clark St & Montrose Ave,1791
+Lake Park Ave & 47th St,1783
+Larrabee St & Oak St,1768
+Cottage Grove Ave & Oakwood Blvd,1768
+Lincoln Ave & Waveland Ave,1743
+Sheridan Rd & Noyes St (NU),1733
+Lincoln Ave & Belle Plaine Ave,1719
+Wood St & Augusta Blvd,1712
+Milwaukee Ave & Rockwell St,1702
+Troy St & North Ave,1681
+Western Ave & Leland Ave,1675
+Orleans St & Elm St,1674
+California Ave & Division St,1669
+Morgan St & 18th St,1665
+Damen Ave & Wellington Ave,1661
+California Ave & Cortez St,1659
+Lincoln Ave & Sunnyside Ave,1652
+Stave St & Armitage Ave,1642
+Leavitt St & Chicago Ave,1635
+Loomis St & Jackson Blvd,1633
+Ashland Ave & Wellington Ave,1626
+Central Park Ave & Bloomingdale Ave,1620
+Larrabee St & Menomonee St,1608
+Clinton St & Jackson Blvd,1607
+Albany Ave & Bloomingdale Ave,1593
+Wolcott (Ravenswood) Ave & Montrose Ave,1593
+Sheridan Rd & Columbia Ave,1589
+900 W Harrison St,1587
+Clark St & Ida B Wells Dr,1569
+Campbell Ave & Fullerton Ave,1563
+California Ave & Francis Pl (Temp),1562
+California Ave & Montrose Ave,1560
+Sheridan Rd & Greenleaf Ave,1547
+Damen Ave & Foster Ave,1547
+Canal St & Monroe St,1540
+Paulina St & 18th St,1517
+Greenwood Ave & 47th St,1485
+Racine Ave & Randolph St,1456
+California Ave & Altgeld St,1432
+Damen Ave & Leland Ave,1432
+Ravenswood Ave & Irving Park Rd,1427
+Morgan St & Polk St,1426
+LaSalle St & Adams St,1425
+Chicago Ave & Washington St,1421
+State St & 19th St,1411
+Ashland Ave & Lake St,1408
+Elizabeth (May) St & Fulton St,1399
+South Shore Dr & 67th St,1379
+South Shore Dr & 71st St,1374
+Wood St & Chicago Ave,1371
+State St & 33rd St,1367
+Wells St & 19th St,1367
+Calumet Ave & 21st St,1363
+Ashland Ave & Belle Plaine Ave,1350
+Damen Ave & Clybourn Ave,1335
+Wolcott Ave & Polk St,1327
+Damen Ave & Grand Ave,1310
+Spaulding Ave & Armitage Ave,1305
+California Ave & Fletcher St,1266
+Wood St & Hubbard St,1222
+Ellis Ave & 58th St,1201
+Damen Ave & Melrose Ave,1199
+Wabash Ave & Cermak Rd,1176
+Damen Ave & Cullerton St,1173
+Eastlake Ter & Rogers Ave,1156
+Woodlawn Ave & Lake Park Ave,1155
+Kosciuszko Park,1150
+Calumet Ave & 33rd St,1131
+Clark St & Elmdale Ave,1126
+Lincoln Ave & Addison St,1114
+Lincoln Ave & Winona St,1094
+Paulina St & Montrose Ave,1087
+Winchester Ave & Elston Ave,1084
+Western Ave & Congress Pkwy,1082
+Indiana Ave & 31st St,1081
+University Library (NU),1074
+Damen Ave & Sunnyside Ave,1073
+Leavitt St & Lawrence Ave,1059
+California Ave & Byron St,1059
+Racine Ave & Washington Blvd,1055
+McCormick Place,1048
+Francisco Ave & Foster Ave,1047
+Washtenaw Ave & Lawrence Ave,1038
+Laflin St & Cullerton St,1033
+Damen Ave & Madison St,1031
+Cottage Grove Ave & 51st St,1031
+Throop (Loomis) St & Taylor St,1029
+Halsted St & Roosevelt Rd,1023
+Southport Ave & Clark St,1022
+Leavitt St & Belmont Ave,1020
+Indiana Ave & 26th St,1014
+Canal St & Jackson Blvd,1007
+MLK Jr Dr & Pershing Rd,1001
+Halsted St & Polk St,999
+Emerald Ave & 31st St,968
+Halsted St & 18th St,966
+Morgan Ave & 14th Pl,965
+Richmond St & Diversey Ave,959
+Morgan St & 31st St,933
+MLK Jr Dr & 47th St,928
+Western Ave & Roscoe St,926
+Central Park Ave & Elbridge Ave,925
+Avers Ave & Belmont Ave,918
+Oakley Ave & Irving Park Rd,916
+Clinton St & Tilden St,905
+Clark St & Schreiber Ave,899
+May St & Cullerton St,894
+Greenview Ave & Jarvis Ave,893
+State St & 35th St,891
+Cottage Grove Ave & 47th St,885
+Chicago Ave & Dempster St,880
+Spaulding Ave & Division St,874
+Warren Park West,866
+Jeffery Blvd & 67th St,859
+Elston Ave & Wabansia Ave,849
+Drake Ave & Fullerton Ave,837
+Clinton St & 18th St,828
+Racine Ave & Congress Pkwy,827
+Leavitt St & Division St,819
+Western Ave & Monroe St,812
+Kimball Ave & Belmont Ave,801
+Talman Ave & Addison St,799
+Cottage Grove Ave & 43rd St,795
+Prairie Ave & 43rd St,791
+Harper Ave & 59th St,785
+Kedzie Ave & Leland Ave,785
+Troy St & Elston Ave,784
+Wentworth Ave & 24th St (Temp),779
+Western Ave & Fillmore St,774
+Ravenswood Ave & Berteau Ave,770
+Claremont Ave & Hirsch St,767
+Evanston Civic Center,766
+Canal St & Harrison St,762
+Leavitt St & Addison St,756
+Rockwell St & Eastwood Ave,742
+Dorchester Ave & 63rd St,715
+Racine Ave & 15th St,710
+Central Park Ave & North Ave,703
+Calumet Ave & 35th St,703
+Kedzie Ave & Foster Ave,702
+Western Ave & Granville Ave,694
+Calumet Ave & 51st St,692
+Christiana Ave & Lawrence Ave,691
+Sawyer Ave & Irving Park Rd,686
+Albany Ave & Montrose Ave,686
+Shields Ave & 28th Pl,678
+Halsted St & North Branch St,666
+Dorchester Ave & 49th St,655
+Keystone Ave & Fullerton Ave,651
+Clark St & Lunt Ave,639
+Keystone Ave & Montrose Ave,636
+Budlong Woods Library,631
+St. Louis Ave & Balmoral Ave,628
+Glenwood Ave & Touhy Ave,628
+Broadway & Wilson - Truman College Vaccination Site,628
+Emerald Ave & 28th St,627
+Clark St & Columbia Ave,625
+Hermitage Ave & Polk St,616
+Campbell Ave & Montrose Ave,611
+Monticello Ave & Irving Park Rd,606
+Paulina St & Howard St,596
+Ashland Ave & 13th St,595
+Avondale Ave & Irving Park Rd,574
+South Shore Dr & 74th St,573
+Kedzie Ave & Bryn Mawr Ave,573
+Damen Ave & Walnut (Lake) St,573
+Warren Park East,560
+Halsted St & 35th St,557
+Smith Park,554
+Valli Produce - Evanston Plaza,552
+Jeffery Blvd & 71st St,546
+Stony Island Ave & 67th St,544
+Throop St & Taylor St,543
+Central St & Girard Ave,541
+Western Ave & 21st St,539
+Halsted St & 21st St,535
+Ogden Ave & Roosevelt Rd,534
+Archer (Damen) Ave & 37th St,534
+Hoyne Ave & Balmoral Ave,528
+State St & 29th St,524
+Manor Ave & Leland Ave,509
+Damen Ave & Pershing Rd,502
+Winchester (Ravenswood) Ave & Balmoral Ave,496
+Halsted St & Archer Ave,492
+Wentworth Ave & 33rd St,484
+Loomis St & Archer Ave,478
+St. Louis Ave & Fullerton Ave,478
+Drake Ave & Montrose Ave,477
+Shields Ave & 31st St,476
+Western Ave & Lunt Ave,473
+Artesian Ave & Hubbard St,472
+Central St Metra,470
+Wallace St & 35th St,465
+Racine Ave & 13th St,465
+Conservatory Dr & Lake St,464
+Maplewood Ave & Peterson Ave,463
+Wood St & Taylor St,459
+Prairie Ave & Garfield Blvd,457
+Cornell Dr & Hayes Dr,447
+Pulaski Rd & Eddy St (Temp),444
+Ogden Ave & Congress Pkwy,442
+Oakley Ave & Touhy Ave,442
+Dodge Ave & Mulford St,437
+Leavitt St & Archer Ave,432
+Wood St & 35th St,431
+Milwaukee Ave & Cuyler Ave,430
+Cherry Ave & Blackhawk St,426
+Stony Island Ave & 64th St,415
+Stony Island Ave & 71st St,415
+Eberhart Ave & 61st St,408
+Western Ave & Howard St,404
+Racine Ave & 35th St,403
+Cottage Grove Ave & 63rd St,398
+Bernard St & Elston Ave,386
+Clinton St & Polk St,384
+Ashland Ave & Archer Ave,381
+California Ave & 21st St,376
+Elmwood Ave & Austin St,375
+Clark St & Jarvis Ave,374
+Kildare Ave & Montrose Ave,365
+Wentworth Ave & 35th St,365
+Indiana Ave & 40th St,363
+Wood St & Taylor St (Temp),358
+Kedzie Ave & Chicago Ave,357
+Western Ave & 24th St,354
+Rainbow Beach,342
+Austin Blvd & Lake St,339
+2112 W Peterson Ave,335
+Central Park Ave & Ogden Ave,331
+California Ave & Lake St,331
+Washtenaw Ave & Ogden Ave,328
+Ridge Blvd & Howard St,325
+Ridge Blvd & Touhy Ave,321
+Austin Blvd & Madison St,320
+MLK Jr Dr & 56th St,316
+Halsted St & 47th Pl,315
+Clark St & Touhy Ave,312
+DuSable Museum,308
+California Ave & 23rd Pl,299
+Malcolm X College,298
+Damen Ave & Coulter St,298
+Dodge Ave & Church St,297
+Kilbourn Ave & Milwaukee Ave,296
+Kedzie Ave & Lake St,295
+Millard Ave & 26th St,294
+Halsted St & 37th St,286
+Drake Ave & Addison St,283
+Wolcott Ave & Fargo Ave,281
+HUBBARD ST BIKE CHECKING (LBS-WH-TEST),280
+Knox Ave & Montrose Ave,269
+Kilbourn Ave & Irving Park Rd,269
+Bosworth Ave & Howard St,264
+Phillips Ave & 79th St,263
+Austin Blvd & Chicago Ave,260
+Cottage Grove Ave & 78th St,254
+Normal Ave & Archer Ave,250
+Jeffery Blvd & 76th St,248
+Lincolnwood Dr & Central St,248
+Western Blvd & 48th Pl,245
+Union Ave & Root St,237
+Cottage Grove Ave & 83rd St,237
+Fairfield Ave & Roosevelt Rd,237
+Racine Ave & Garfield Blvd,231
+Yates Blvd & 75th St,226
+Central Park Blvd & 5th Ave,225
+MLK Jr Dr & 63rd St,220
+Greenwood Ave & 79th St,212
+Wabash Ave & 87th St,211
+Albany Ave & 26th St,205
+State St & Pershing Rd,199
+Stony Island Ave & 75th St,198
+State St & 79th St,198
+Central Ave & Chicago Ave,194
+Cicero Ave & Quincy St,192
+Cottage Grove Ave & 67th St,190
+Kedzie Ave & Roosevelt Rd,189
+Central Ave & Harrison St,188
+Central Ave & Lake St,185
+Prospect Sq & 91st St,180
+Kedzie Ave & 21st St,179
+Elizabeth St & 92nd St,178
+Princeton Ave & 47th St,174
+Central Park Ave & 24th St,171
+Commercial Ave & 83rd St,170
+Kedzie Ave & 24th St,169
+Laramie Ave & Madison St,168
+Princeton Ave & Garfield Blvd,160
+Exchange Ave & 79th St,159
+Halsted St & 63rd St,159
+Ellis Ave & 83rd St,158
+Hoyne Ave & 47th St,157
+Big Marsh Park,151
+Phillips Ave & 83rd St,149
+W Oakdale Ave & N Broadway,149
+Damen Ave & 59th St,143
+N Green St & W Lake St,143
+State St & 95th St,142
+Sacramento Blvd & Franklin Blvd,140
+Pulaski Rd & Congress Pkwy,140
+Greenwood Ave & 97th St,137
+Ashland Ave & McDowell Ave,136
+Vernon Ave & 75th St,136
+State St & 54th St,135
+Wentworth Ave & 63rd St,133
+Evans Ave & 75th St,133
+Central Ave & Madison St,132
+Cicero Ave & Lake St,131
+Stony Island Ave & 82nd St,127
+Eberhart Ave & 91st St,125
+Vernon Ave & 79th St,124
+Ashland Ave & 50th St,123
+Stony Island Ave & South Chicago Ave,123
+Calumet Ave & 71st St,118
+Perry Ave & 69th St,117
+Loomis Blvd & 84th St,117
+Kedzie Ave & Harrison St,116
+Pulaski Rd & Lake St,113
+Ashland Ave & Pershing Rd,112
+Karlov Ave & Madison St,112
+Marshfield Ave & 44th St,110
+Ashland Ave & Garfield Blvd,104
+Calumet Park,102
+Ashland Ave & 78th St,101
+Malcolm X College Vaccination Site,100
+Latrobe Ave & Chicago Ave,99
+Kenton Ave & Madison St,99
+Wabash Ave & 83rd St,98
+Cottage Grove Ave & 71st St,98
+Bennett Ave & 79th St,93
+Baltimore Ave & 87th St,92
+Wentworth Ave & Cermak Rd (Temp),91
+Lawndale Ave & 111th St,90
+Damen Ave & 51st St,87
+Ashland Ave & 63rd St,86
+Indiana Ave & 103rd St,86
+Seeley Ave & Garfield Blvd,85
+Eggleston Ave & 69th St,84
+Stewart Ave & 83rd St,84
+Kostner Ave & Adams St,83
+Elizabeth St & 47th St,81
+South Chicago Ave & 83rd St,80
+Dauphin Ave & 87th St,80
+Burnham Greenway & 105th St,79
+Western Ave & 28th St,77
+Halsted St & 56th St,75
+Halsted St & 51st St,74
+Oglesby Ave & 100th St,74
+Houston Ave & 92nd St,74
+Laramie Ave & Kinzie St,73
+Throop St & 52nd St,73
+Stewart Ave & 63rd St,73
+California Ave & 26th St,68
+Vernon Ave & 107th St,67
+Avenue O & 134th St,64
+Damen Ave & Wabansia Ave,64
+Chicago State University,63
+Racine Ave & 65th St,62
+Halsted St & 59th St,62
+Dodge Ave & Main St,62
+Halsted St & 69th St,60
+Cottage Grove Ave & 111th Pl,60
+Walden Pkwy & 100th St,60
+Morgan St & Pershing Rd,59
+MLK Jr Dr & 83rd St,56
+Commercial Ave & 130th St,56
+Elston Ave & Cortland St,56
+Laramie Ave & Gladys Ave,55
+Vincennes Ave & 75th St,55
+Bradley Park,55
+May St & 69th St,54
+Michigan Ave & 71st St,53
+Halsted St & 78th St,53
+Major Taylor Trail & 115th St,52
+Homewood Ave & 115th St,52
+Marquette Ave & 89th St,51
+Ashland Ave & 66th St,50
+Halsted St & 96th St,50
+Rhodes Ave & 71st St,49
+Summit Ave & 86th St,49
+Cicero Ave & Flournoy St,48
+East End Ave & 87th St,48
+Avenue O & 118th St,46
+Woodlawn Ave & 75th St,45
+Shields Ave & 43rd St,45
+Marshfield Ave & 59th St,44
+Dauphin Ave & 103rd St,44
+State St & 123rd St,44
+Greenwood Ave & 91st St,44
+Kostner Ave & Lake St,43
+Ashland Ave & 69th St,43
+N Sheffield Ave & W Wellington Ave,43
+Halsted St & 73rd St,42
+Clyde Ave & 87th St,42
+Michigan Ave & 114th St,41
+Western Ave & 111th St,41
+State St & 76th St,39
+Halsted St & 111th St,39
+Halsted St & 104th St,39
+Eggleston Ave & 92nd St,38
+Hale Ave & 107th St,38
+Stony Island Ave & 90th St,37
+Elizabeth St & 59th St,35
+Eberhart Ave & 131st St,35
+Major Taylor Trail & 124th St,35
+N Southport Ave & W Newport Ave,33
+Racine Ave & 61st St,31
+Ewing Ave & Burnham Greenway,31
+W Armitage Ave & N Sheffield Ave,29
+Torrence Ave & 106th St,26
+Ada St & 113th St,26
+Halsted & 63rd - Kennedy-King Vaccination Site,26
+Ashland Ave & 74th St,25
+Wentworth Ave & 104th St,25
+Western Ave & 104th St,25
+Constance Ave & 95th St,23
+Vincennes Ave & 104th St,23
+Kedzie Ave & 110th St,22
+South Chicago Ave & Elliot Ave,20
+W Washington Blvd & N Peoria St,20
+Carpenter St & 63rd St,18
+Torrence Ave & 126th Pl,15
+Western & 28th - Velasquez Institute Vaccination Site,13
+Commercial Ave & 100th St,11
+Hegewisch Metra Station,11
+N Paulina St & Lincoln Ave,10
+Loomis St & 89th St,9
+Base - 2132 W Hubbard Warehouse,9
+Ashland Ave & 73rd St,8
+N Carpenter St & W Lake St,8
+Jeffery Blvd & 91st St,6
+Kedzie Ave & 104th St,3
+Altgeld Gardens,2
+Hampden Ct & Diversey Ave,1
+N Clark St & W Elm St,1
